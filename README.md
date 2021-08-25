@@ -1,0 +1,2 @@
+# BANKING-MANAGEMENT-SYSTEM
+Banking system simulation model is a simple project whose working is very simple. The project is able to perform the operations of the bank open the account of a new customer, delete the customer account, deposit money, withdrawal of money, checking the account balance, searching the account, changing the background. Using Java you can write computer applications that crunch numbers, process words, play games, store data or do any other things computer software can do.
